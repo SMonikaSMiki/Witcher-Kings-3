@@ -179,7 +179,7 @@ k_aquitaine = {
 		instance = { position = { 1.00 1.00 } scale = { @smLysX @smLysY }  }
 	}
 }
-<<<<<<< Updated upstream
+
 k_spanish_galicia = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -202,6 +202,7 @@ k_spanish_galicia = {
 		instance = { position = { 0.35 0.55 } scale = { 0.128 0.128 }  }
 	}
 }
+
 k_brittany = {
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -212,6 +213,7 @@ k_brittany = {
 		color2 = "black"
 	}
 }
+
 d_bourbon = {
 	pattern = "pattern_solid.dds"
 	color1 = "green"
@@ -223,6 +225,7 @@ d_bourbon = {
 		instance = { position = { 0.5 0.48 } scale = { 1.0 1.0 }  }
 	}
 }
+
 k_hellas = {
 	pattern = "pattern_solid.dds"
 	color1 = "purple"
@@ -240,7 +243,8 @@ k_hellas = {
 		instance = { position = { 0.25 0.3 } scale = { 0.25 0.25 } }
 		instance = { position = { 0.5 0.3 } scale = { 0.25 0.25 } }
 		instance = { position = { 0.75 0.3 } scale = { 0.25 0.25 } }
-=======
+	}
+}
 
 c_bordeaux = {
 	pattern = "pattern_solid.dds"
@@ -252,6 +256,5 @@ c_bordeaux = {
 		color2 = "yellow"
 		color3 = "white"
 		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
->>>>>>> Stashed changes
 	}
 }
