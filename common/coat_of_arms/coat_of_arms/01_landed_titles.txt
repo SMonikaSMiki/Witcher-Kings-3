@@ -1,0 +1,406 @@
+@smCastleX = 0.27
+@smCastleY = 0.23
+@smLysX = 0.23
+@smLysY = 0.26
+@smCross = 0.22
+
+k_leon = { # Kingdom of Lyria & Rivia
+    pattern = "pattern_checkers_01.dds"
+    	color1 = "blue"
+    	color2 = "white"
+    colored_emblem = {
+        texture = "ce_diamond_01.dds"
+        color1 = "red"
+        color2 = "red"
+        instance = { position = { 0.18 0.63 } scale = { 0.23 0.23 }  }
+        instance = { position = { 0.4 0.81 } scale = { 0.17 0.17 }  }
+        instance = { position = { 0.3 0.72 } scale = { 0.2 0.2 }  }
+        instance = { position = { 0.85 0.19 } scale = { 0.25 0.25 }  }
+        instance = { position = { 0.65 0.19 } scale = { 0.25 0.25 }  }
+        instance = { position = { 0.75 0.34 } scale = { 0.25 0.25 }  }
+    }
+    colored_emblem = {
+        texture = "ce_lion_passant_small.dds"
+        color1 = "yellow"
+        color2 = "yellow"
+        instance = { position = { 0.25 0.12 } scale = { 0.5 0.4 }  }
+        instance = { position = { 0.25 0.27 } scale = { 0.5 0.4 }  }
+        instance = { position = { 0.25 0.42 } scale = { 0.5 0.4 }  }
+        instance = { position = { 0.65 0.86 } scale = { 0.3 0.2 }  }
+        instance = { position = { 0.7 0.76 } scale = { 0.4 0.3 }  }
+        instance = { position = { 0.75 0.62 } scale = { 0.5 0.4 }  }
+    }
+    colored_emblem = {
+        texture = "ce_shield_lyria.dds"
+        color1 = "yellow"
+        color2 = "black"
+        instance = { position = { 0.5 0.5 } scale = { 0.4 0.4 }  }
+    }
+    colored_emblem = {
+        texture = "ce_eagle_small.dds"
+        color1 = "black"
+        color2 = "red"
+	color3 = "white"
+        instance = { position = { 0.5 0.47 } scale = { 0.4 0.4 }  }
+    }
+}
+
+d_prussia = { # Kingdom of Rivia
+    pattern = "pattern_solid.dds"
+    	color1 = "white"
+    	color2 = "black"
+    colored_emblem = {
+        texture = "ce_diamond_01.dds"
+        color1 = "red"
+        color2 = "red"
+        instance = { position = { 0.32 0.29 } scale = { 0.45 0.45 }  }
+        instance = { position = { 0.68 0.29 } scale = { 0.45 0.45 }  }
+        instance = { position = { 0.5 0.66 } scale = { 0.45 0.45 }  }
+    }
+}
+
+e_byzantium = { # Nilfgaardian Empire
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_nilfgaard_sun.dds"
+		color1 = "yellow"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 1.1 1.1 }  }
+	}
+}
+
+k_georgia = { # Nilfgaard Proper
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_nilfgaard_proper_sun.dds"
+		color1 = "yellow"
+		color2 = "white"
+		instance = { position = { 0.5 0.46 } scale = { 1.1 1.1 }  }
+	}
+}
+
+#d_bohemia = { # Duchy of Toussaint
+#	pattern = "pattern_solid.dds"
+#	color1 = "black"
+#	color2 = "black"
+#	colored_emblem = {
+#		texture = "ce_toussaint_knight.dds"
+#		color1 = "white"
+#		color2 = "yellow"
+#		color3 = "red"
+#		instance = { position = { 0.5 0.46 } scale = { 1.0 1.0 }  }
+#	}
+#}
+
+d_bohemia = { # Nilfgaardian Mercenary Company I
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	colored_emblem = {
+		texture = "ce_skull.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_shield_border.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+	}
+}
+
+d_bohemia = { # Nilfgaardian Mercenary Company II
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	colored_emblem = {
+		texture = "ce_tower.dds"
+		color1 = "red"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_shield_border_ii.dds"
+		color1 = "red"
+		color2 = { 34 31 29 }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+	}
+}
+
+d_bohemia = { # CU CoA
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	colored_emblem = {
+		texture = "ce_bend_thin.dds"
+		color1 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waterball.dds"
+		color1 = "blue"
+		color2 = "white"
+		instance = { position = { 0.85 0.15 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.85 0.45 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.55 0.15 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.15 0.5 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.3 0.65 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.45 0.8 } scale = { 0.25 0.25 } }
+	}
+}
+
+k_poland = { # Kingdom of Redania
+	pattern = "pattern_solid.dds"
+		color1 = "red"
+		color2 = "white"
+	colored_emblem = {
+		texture = "ce_eagle_redania.dds"
+		color1 = "white"
+		color2 = "yellow"
+		color3 = "yellow"
+		instance = { position = { 0.5 0.52 } scale = { 1.1 1.1 }  }
+	}
+	colored_emblem = {
+		texture = "ce_shield_redania.dds"
+		color1 = "black"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.48 } scale = { 0.6 0.6 }  }
+	}
+}
+
+k_pomerania = { # Kingdom of Kaedwen
+	pattern = "pattern_solid.dds"
+		color1 = "yellow"
+		color2 = "white"
+	colored_emblem = {
+		texture = "ce_unicorn.dds"
+		color1 = "black"
+		color2 = "red"
+		color3 = "white"
+		instance = { position = { 0.5 0.46 } scale = { 0.8 0.8 }  }
+	}
+}
+
+k_lithuania = { # Kingdom of Aedirn
+	pattern = "pattern_solid.dds"
+		color1 = "black"
+		color2 = "white"
+	colored_emblem = {
+		texture = "ce_chevron_in_chief.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance = { position = { 0.5 0.62 } scale = { 1.0 1.0 }  }
+	}
+}
+
+k_sicily = { # Kingdom of Cidaris
+    	pattern = "pattern_vertical_split_01.dds"
+    		color1 = "white"
+    		color2 = "blue"
+   	colored_emblem = {
+        	texture = "ce_cidarian_fish.dds"
+        	color1 = "blue"
+        	color2 = "white"
+        	instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
+    	}
+   	colored_emblem = {
+        	texture = "ce_cidarian_fish.dds"
+        	color1 = "white"
+        	color2 = "blue"
+        	instance = { position = { 0.5 0.5 } scale = { -0.9 0.9 }  }
+    	}
+}
+
+k_aquitaine = { # Kingdom of Temeria
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_fleur.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.10 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.10 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.10 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 1.00 } scale = { @smLysX @smLysY }  }
+	}
+}
+
+k_spanish_galicia = { # Kingdom of Cintra
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_lion_passant_small.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.22 } scale = { 0.9 0.8 }  }
+		instance = { position = { 0.5 0.48 } scale = { 0.9 0.8 }  }
+		instance = { position = { 0.5 0.74 } scale = { 0.9 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_crown_small.dds"
+		color1 = "white"
+		color2 = "white"
+
+		instance = { position = { 0.35 0.03 } scale = { 0.128 0.128 }  }
+		instance = { position = { 0.35 0.29 } scale = { 0.128 0.128 }  }
+		instance = { position = { 0.35 0.55 } scale = { 0.128 0.128 }  }
+	}
+}
+
+k_brittany = { 
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_checkers_06.dds"
+		color1 = "yellow"
+		color2 = "black"
+	}
+}
+
+d_bourbon = { 
+	pattern = "pattern_solid.dds"
+	color1 = "green"
+	color2 = "green"
+	colored_emblem = {
+		texture = "ce_cross_moline.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 1.0 1.0 }  }
+	}
+}
+
+k_hellas = {
+	pattern = "pattern_solid.dds"
+	color1 = "purple"
+	color2 = "purple"
+	colored_emblem = {
+		texture = "ce_ordinary_pile_02_inverted.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.6 } scale = { 1.0 1.0 } }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+		instance = { position = { 0.75 0.6 } scale = { 1.0 1.0 } }
+	}
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "yellow"
+		instance = { position = { 0.25 0.3 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.5 0.3 } scale = { 0.25 0.25 } }
+		instance = { position = { 0.75 0.3 } scale = { 0.25 0.25 } }
+	}
+}
+
+c_bordeaux = {
+	pattern = "pattern_solid.dds"
+		color1 = "red"
+		color2 = "white"
+	colored_emblem = {
+		texture = "ce_lion_rampant_crown.dds"
+		color1 = "black"
+		color2 = "yellow"
+		color3 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
+	}
+}
+
+k_arabia = { # Ofieri Empire
+    	pattern = "pattern_solid.dds"
+    		color1 = "yellow"
+    		color2 = "black"
+	colored_emblem = {
+		texture = "ce_horse_rampant.dds"
+		color1 = "blue"
+		color2 = "white"
+		color3 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 0.6 0.6 }  }
+	}
+    	colored_emblem = {
+        	texture = "ce_frame_circle_ofier.dds"
+        	color1 = "blue"
+        	color2 = "yellow"
+        	instance = { position = { 0.5 0.48 } scale = { 0.9 0.9 }
+	}
+}
+
+e_france = { # Temerian Empire
+    pattern = "pattern_solid.dds"
+    	color1 = "black"
+    	color2 = "black"
+    colored_emblem = {
+        texture = "ce_fleur.dds"
+        color1 = "white"
+        color2 = "white"
+        instance = { position = { 0.32 0.29 } scale = { 0.45 0.45 }  }
+        instance = { position = { 0.68 0.29 } scale = { 0.45 0.45 }  }
+        instance = { position = { 0.5 0.66 } scale = { 0.45 0.45 }  }
+    }
+}
+
+k_france = { # Kingdom of Kovir-Poviss
+    	pattern = "pattern_checkers_01.dds"
+    		color1 = "red"
+    		color2 = "white"
+   	colored_emblem = {
+        	texture = "ce_eagle_double.dds"
+        	color1 = "white"
+        	color2 = "yellow"
+		color3 = "black"
+        	instance = { position = { 0.5 0.75 } scale = { 0.9 0.5 }  }
+    	}
+    	colored_emblem = {
+        	texture = "ce_chief_indented.dds"
+        	color1 = "white"
+        	color2 = "blue"
+        	instance = { position = { 0.25 0.75 } scale = { 0.5 0.5 }  }
+    	}
+    	colored_emblem = {
+        	texture = "ce_arm.dds"
+        	color1 = "white"
+        	color2 = "yellow"
+        	instance = { position = { 0.25 0.25 } scale = { 0.55 0.55 }  }
+    	}
+    	colored_emblem = {
+        	texture = "ce_bendy_06.dds"
+        	color1 = "green"
+        	color2 = "white"
+        	instance = { position = { 0.75 0.25 } scale = { 0.5 0.5 }  }
+    	}
+    	colored_emblem = {
+        	texture = "ce_mena_pale.dds"
+        	color1 = "black"
+        	instance = { position = { 0.75 0.25 } scale = { 0.5 0.5 }  }
+    	}
+}
