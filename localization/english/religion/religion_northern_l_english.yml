@@ -1,0 +1,84 @@
+﻿l_english:
+
+ #Common Christian Localization
+ northern_religion:0 "Northern"
+ northern_religion_adj:0 "Northern"
+ northern_religion_adjerent:0 "Northerner"
+ northern_religion_adherent_plural:0 "Northerners"
+ northern_religion_desc:0 "Focused on the life and teachings of Jesus of Nazareth, northern revolves around the concept of salvation, in which adherents are forgiven for their sins and welcomed by God into the afterlife."
+ northern_high_god_name:0 "God"
+ northern_high_god_name_2:0 "$northern_high_god_name$" # Optional translation alt
+ northern_high_god_name_3:0 "$northern_high_god_name$" # Optional translation alt
+ northern_high_god_name_possessive:0 "God's"
+ northern_high_god_name_alternate:0 "The Lord"
+ northern_high_god_name_alternate_possessive:0 "The Lord's"
+ northern_good_god_jesus:0 "$northern_health_god_name$"
+ northern_good_god_christ:0 "Christ"
+ northern_devil_name:0 "Satan"
+ northern_devil_name_possessive:0 "Satan's"
+ northern_evil_god_lucifer:0 "Lucifer"
+ northern_evil_god_beelzebub:0 "Beelzebub"
+ northern_evil_god_mephistopheles:0 "Mephistopheles"
+ northern_death_deity_name:0 "Death"
+ northern_death_deity_name_possessive:0 "Death's"
+ northern_house_of_worship:0 "church"
+ northern_house_of_worship_2:0 "$northern_house_of_worship$" # Optional translation alt
+ northern_house_of_worship_3:0 "$northern_house_of_worship$" # Optional translation alt
+ northern_house_of_worship_plural:0 "churches"
+ northern_religious_symbol:0 "cross"
+ northern_religious_symbol_2:0 "$northern_religious_symbol$" # Optional translation alt
+ northern_religious_symbol_3:0 "$northern_religious_symbol$" # Optional translation alt
+ northern_religious_text:0 "scriptures"
+ northern_religious_text_2:0 "$northern_religious_text$" # Optional translation alt
+ northern_religious_text_3:0 "$northern_religious_text$" # Optional translation alt
+ northern_religious_head_title:0 "Pope"
+ northern_religious_head_title_name:0 "Papacy"
+ northern_devotee_male:0 "monk"
+ northern_devotee_male_plural:0 "monks"
+ northern_devotee_female:0 "nun"
+ northern_devotee_female_plural:0 "nuns"
+ northern_devotee_neuter:0 "monastic"
+ northern_devotee_neuter_plural:0 "monastics"
+ northern_priest_male:0 "priest"
+ northern_priest_male_plural:0 "priests"
+ northern_priest_alternate_plural:0 "clergy"
+ northern_bishop:0 "bishop"
+ northern_bishop_plural:0 "bishops"
+ northern_positive_afterlife:0 "heaven"
+ northern_positive_afterlife_2:0 "$northern_positive_afterlife$" # Optional translation alt
+ northern_positive_afterlife_3:0 "$northern_positive_afterlife$" # Optional translation alt
+ northern_negative_afterlife:0 "hell"
+ northern_negative_afterlife_2:0 "$northern_negative_afterlife$" # Optional translation alt
+ northern_negative_afterlife_3:0 "$northern_negative_afterlife$" # Optional translation alt
+ northern_witchgodname_the_horned_god:0 "the Horned God"
+ northern_witchgodname_the_horned_god_possessive:0 "the Horned God's"
+
+ northern_creator_god_name:0 "$northern_high_god_name$"
+ northern_creator_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_health_god_name:0 "Jesus"
+ northern_health_god_name_possessive:0 "Jesus'"
+ northern_fertility_god_name:0 "$northern_high_god_name$"
+ northern_fertility_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_wealth_god_name:0 "$northern_high_god_name$"
+ northern_wealth_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_household_god_name:0 "$northern_health_god_name$"
+ northern_household_god_name_possessive:0 "$northern_health_god_name_possessive$"
+ northern_fate_god_name:0 "$northern_high_god_name$"
+ northern_fate_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_knowledge_god_name:0 "$northern_high_god_name$"
+ northern_knowledge_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_war_god_name:0 "$northern_high_god_name$"
+ northern_war_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_trickster_god_name:0 "Fortuna"
+ northern_trickster_god_name_possessive:0 "Fortuna's"
+ northern_night_god_name:0 "$northern_high_god_name$"
+ northern_night_god_name_possessive:0 "$northern_high_god_name_possessive$"
+ northern_water_god_name:0 "$northern_health_god_name$"
+ northern_water_god_name_possessive:0 "$northern_health_god_name_possessive$"
+
+ #Catholic-Group Faiths
+ northern:0 "Northern Pantheon"
+ northern_adj:0 "Northern"
+ northern_adherent:0 "Northern"
+ northern_adherent_plural:0 "Northerners"
+ northern_desc:0 "The Roman Catholic Church claims that Jesus bestowed the Keys of the Kingdom of Heaven upon St. Peter and that, as his rightful successor, the Pope is therefore the supreme spiritual authority of the entire Christian world."

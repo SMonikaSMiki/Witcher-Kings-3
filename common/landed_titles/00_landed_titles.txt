@@ -19,7 +19,7 @@ e_test = {
 		}
 	}
 	
-	k_test = {
+	k_cintra = {
 		color = { 175 30 130 }
 		color2 = { 255 255 23 }
 		

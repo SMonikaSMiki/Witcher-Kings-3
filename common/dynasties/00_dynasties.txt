@@ -1,1 +1,9 @@
-﻿
+﻿house_raven = {
+	name = "Raven"
+	culture = "northern"
+}
+
+clan_tuirseach = {
+	name = "Tuirseach"
+	culture = "skelliger"
+}
