@@ -118,7 +118,7 @@ bookmark_cintra_calanthe={
 bookmark_cintra_cirilla={
 	type=female
 	id=0
-	age=0.180000
+	age=0.100000
 	genes={ 		hair_color={ 21 72 124 117 }
  		skin_color={ 61 47 92 101 }
  		eye_color={ 159 86 64 163 }

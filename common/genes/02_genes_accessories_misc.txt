@@ -14,8 +14,6 @@ accessory_genes = {
 		
 
 	eye_accessory = {
-
-		index = 101
 		inheritable = no
 		
 		normal_eyes = {
@@ -95,8 +93,6 @@ accessory_genes = {
 
 
 	teeth_accessory = {
-
-		index = 102
 		inheritable = no
 		
 		normal_teeth = {
@@ -132,8 +128,6 @@ accessory_genes = {
 
 
 	eyelashes_accessory = {
-
-		index = 103
 		inheritable = no
 		
 		# inheritable = no
@@ -176,8 +170,8 @@ accessory_genes = {
 			boy = {
 			}
 			girl = {
-			}
 		}
 	}
+}
 
 }

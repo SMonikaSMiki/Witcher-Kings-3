@@ -14,7 +14,7 @@
 		religion = "northern"
 		culture = "cintran"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
-		position = { 910 700 }
+		position = { 1090 500 }
 
 		animation = marshal
 
@@ -23,7 +23,7 @@
 			relation = "BOOKMARK_RELATION_GRANDDAUGHTER"
 			dynasty = house_raven
 			type = female
-			birth = 1253.1.1
+			birth = 1252.1.1
 			culture = "cintran"
 			religion = "northern"
 			animation = personality_bold
@@ -43,5 +43,31 @@
 		position = { 620 400 }
 
 		animation = personality_bold
+	}
+	character = {# Imperator Emhyr var Emreis)
+		name = "bookmark_cintra_emhyr"
+		type = male
+		birth = 1221.1.1
+		title = e_nilfgaard
+		dynasty = house_emreis
+		dynasty_splendor_level = 5
+		government = feudal_government
+		religion = "solar"
+		culture = "nilfgaardian"
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 920 845 }
+
+		animation = war_attacker
+
+		character = {
+			name = "bookmark_cintra_coehoorn"
+			relation = "BOOKMARK_RELATION_FIELD_MARSHAL"
+			dynasty = house_coehoorn
+			type = male
+			birth = 1223.1.1
+			culture = "nilfgaardian"
+			religion = "solar"
+			animation = war_over_win
+		}
 	}
 }

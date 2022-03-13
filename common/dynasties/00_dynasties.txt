@@ -7,3 +7,8 @@ clan_tuirseach = {
 	name = "Tuirseach"
 	culture = "skelliger"
 }
+
+house_emreis = {
+	name = "var Emreis"
+	culture = "nilfgaardian"
+}

@@ -21,6 +21,12 @@
  NEUSTRIA_adj:0 "Neustrian"
 
  # Default title names
+ e_nilfgaard_pre:0 "the "
+ e_nilfgaard:0 "Nilfgaardian Empire"
+ e_nilfgaard_adj:0 "Nilfgaardian"
  k_cintra:0 "Cintra"
  k_cintra_adj:0 "Cintran"
+ k_skellige:0 "Skellige"
+ k_skellige_adj:0 "Skelliger"
+ 
  

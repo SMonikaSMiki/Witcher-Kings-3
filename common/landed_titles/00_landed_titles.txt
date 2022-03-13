@@ -2,7 +2,7 @@
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
 
-e_test = {
+e_nilfgaard = {
 	color =  hsv{ 0.9 1 0.3 } #hsv{ 0.73 0.8 0.4 }  #hsv{ 0.77 0.8 0.6 } #{ 143 12 125 }
 	color2 = { 255 255 255 }
 	
@@ -77,6 +77,21 @@ e_test = {
 					color = { 170 75 90 }
 					color2 = { 255 255 255 }
 				}
+			}
+		}
+
+	k_skellige = {
+		color = { 175 30 130 }
+		color2 = { 255 255 23 }
+		
+		capital = c_test_3
+		
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:testish
+				}
+				add = @correct_culture_primary_score
 			}
 		}
 		
