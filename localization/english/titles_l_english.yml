@@ -26,7 +26,8 @@
  e_nilfgaard_adj:0 "Nilfgaardian"
  k_cintra:0 "Cintra"
  k_cintra_adj:0 "Cintran"
- k_skellige:0 "Skellige"
+ k_skellige_pre:0 "the 
+ k_skellige:0 "Skellige Isles"
  k_skellige_adj:0 "Skelliger"
  
  
