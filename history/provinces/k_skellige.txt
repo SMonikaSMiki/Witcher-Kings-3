@@ -1,0 +1,276 @@
+####c_vejen
+1 = { #b_kaer_trolde
+	culture = occitan
+	religion = catholic
+
+	holding = castle_holding
+}
+2 = { #b_havntrolde
+	holding = city_holding
+}
+3 = { #b_vejen
+	holding = city_holding
+}
+####c_kaer_nyssen
+4 = { #b_rannvaig
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+5 = { #b_boxholm
+	holding = city_holding
+}
+6 = { #b_kaer_nyssen
+	holding = castle_holding
+}
+####c_fyresdal
+7 = { #b_fyresdal
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+8 = { #b_naerbjerg
+	holding = castle_holding
+}
+9 = { #b_skjern
+	holding = city_holding
+}
+10 = { #b_brande
+	holding = city_holding
+}
+####c_fayrlund
+11 = { #b_fayrlund
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+12 = { #b_sund
+	holding = city_holding
+}
+13 = { #b_nibe
+	holding = city_holding
+}
+####c_arinbjorn
+14 = { #b_arinbjorn
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+15 = { #b_skagen
+	holding = city_holding
+}
+16 = { #b_vildkyst
+	holding = city_holding
+}
+####c_fornhala
+17 = { #b_hornslet
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+18 = { #b_sabro
+	holding = city_holding
+}
+19 = { #b_fornhala
+	holding = city_holding
+}
+####c_kaer_muire
+20 = { #b_holmstein
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+21 = { #b_kaer_muire
+	holding = castle_holding
+}
+####c_rogne
+22 = { #b_rogne
+	culture = occitan
+	religion = catholic
+
+	holding = castle_holding
+}
+23 = { #b_blandare
+	holding = castle_holding
+}
+24 = { #b_tinglev
+	holding = castle_holding
+}
+####c_kaer_gelen
+25 = { #b_kaer_gelen
+	culture = occitan
+	religion = catholic
+
+	holding = castle_holding
+}
+26 = { #b_gedynieth
+	holding = city_holding
+}
+27 = { #b_arden
+	holding = city_holding
+}
+28 = { #b_trige
+	holding = city_holding
+}
+####c_redgill
+29 = { #b_brovst
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+30 = { #b_redgill
+	holding = city_holding
+}
+31 = { #b_skive
+	holding = city_holding
+}
+####c_svorlag
+32 = { #b_hov
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+33 = { #b_vejle
+	holding = city_holding
+}
+34 = { #b_svorlag
+	holding = city_holding
+}
+####c_farum
+35 = { #b_svendborg
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+36 = { #b_varde
+	holding = city_holding
+}
+37 = { #b_farum
+	holding = city_holding
+}
+####c_ellinge
+38 = { #b_faxe
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+39 = { #b_lihme
+	holding = city_holding
+}
+40 = { #b_ellinge
+	holding = city_holding
+}
+####c_rovst
+41 = { #b_ellinge
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+42 = { #b_lindelse
+	holding = city_holding
+}
+43 = { #b_rovst
+	holding = city_holding
+}
+####c_haslev
+44 = { #b_stege
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+45 = { #b_borup
+	holding = city_holding
+}
+46 = { #b_haslev
+	holding = city_holding
+}
+####c_lemvig
+47 = { #b_dragor
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+48 = { #b_odder
+	holding = city_holding
+}
+49 = { #b_lemvig
+	holding = city_holding
+}
+####c_urialla
+50 = { #b_urialla
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+51 = { #b_yngvar
+	holding = city_holding
+}
+52 = { #b_tarm
+	holding = city_holding
+}
+####c_auning
+53 = { #b_hong
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+54 = { #b_hammel
+	holding = city_holding
+}
+55 = { #b_auning
+	holding = city_holding
+}
+####c_brekstad
+56 = { #b_harstad
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+57 = { #b_notodden
+	holding = city_holding
+}
+58 = { #b_brekstad
+	holding = city_holding
+}
+####c_urskar
+59 = { #b_urskar
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+60 = { #b_gjovik
+	holding = city_holding
+}
+61 = { #b_floro
+	holding = city_holding
+}
+####c_hakadal
+62 = { #b_dalsroa
+	culture = occitan
+	religion = catholic
+
+	holding = city_holding
+}
+63 = { #b_greverud
+	holding = city_holding
+}
+64 = { #b_hakadal
+	holding = city_holding
+}

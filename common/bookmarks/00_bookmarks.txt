@@ -1,73 +1,22 @@
-﻿bm_1262_cintra = {
-	start_date = 1262.1.1
+﻿bm_1066_canarias = {
+	start_date = 1066.10.1
 	is_playable = yes
-	recommended = yes
 
-	character = {# Queen Calanthe of Cintra)
-		name = "bookmark_cintra_calanthe"
-		type = female
-		birth = 1217.1.1
-		title = k_cintra
-		dynasty = house_raven
-		dynasty_splendor_level = 4
-		government = feudal_government
-		religion = "northern"
-		culture = "cintran"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
-		position = { 1090 500 }
-
-		animation = marshal
-
-		character = {
-			name = "bookmark_cintra_cirilla"
-			relation = "BOOKMARK_RELATION_GRANDDAUGHTER"
-			dynasty = house_raven
-			type = female
-			birth = 1252.1.1
-			culture = "cintran"
-			religion = "northern"
-			animation = personality_bold
-		}
-	}
-	character = {# Jarl Eist of Skellige)
-		name = "bookmark_cintra_eist"
+	# Guanarigato
+	character = {
+		name = "bookmark_canarias_guanarigato"
+		dynasty = 100848
+		dynasty_splendor_level = 1
 		type = male
-		birth = 1223.1.1
-		title = k_skellige
-		dynasty = clan_tuirseach
-		dynasty_splendor_level = 4
-		government = feudal_government
-		religion = "skelliger"
-		culture = "skelliger"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
-		position = { 620 400 }
-
-		animation = personality_bold
-	}
-	character = {# Imperator Emhyr var Emreis)
-		name = "bookmark_cintra_emhyr"
-		type = male
-		birth = 1221.1.1
-		title = e_nilfgaard
-		dynasty = house_emreis
-		dynasty_splendor_level = 5
-		government = feudal_government
-		religion = "solar"
-		culture = "nilfgaardian"
+		birth = 1039.1.1
+		title = c_canarias
+		government = tribal_government
+		culture = baranis
+		religion = "west_african_pagan"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		position = { 920 845 }
+		history_id = 20842
+		position = { 250 750 }
 
-		animation = war_attacker
-
-		character = {
-			name = "bookmark_cintra_coehoorn"
-			relation = "BOOKMARK_RELATION_FIELD_MARSHAL"
-			dynasty = house_coehoorn
-			type = male
-			birth = 1223.1.1
-			culture = "nilfgaardian"
-			religion = "solar"
-			animation = war_over_win
-		}
+		animation = happiness
 	}
 }

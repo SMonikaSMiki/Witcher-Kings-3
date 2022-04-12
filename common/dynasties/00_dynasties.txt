@@ -1,14 +1,10 @@
-﻿house_raven = {
-	name = "Raven"
-	culture = "northern"
+﻿100848 = {
+	name = "dynn_Tikanariyen"
+	culture = "maghrebi"
 }
 
-clan_tuirseach = {
-	name = "Tuirseach"
-	culture = "skelliger"
-}
-
-house_emreis = {
-	name = "var Emreis"
-	culture = "nilfgaardian"
+# Keeping Prydain to dodge a stubborn error.
+1029001 = {
+	name = "dynn_Prydain"
+	culture = "welsh"
 }

@@ -1,0 +1,53 @@
+e_skellige_empire = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+k_skellige = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+d_craite_skellige = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+c_vejen = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	850.1.1 = {
+		holder = 6000017
+	}
+	877.1.1 = {
+		holder = 6000017
+	}
+	906.1.1 = {
+		holder = 6000017
+	}
+	929.1.1 = {
+		holder = 6000017
+	}
+	941.1.1 = {
+		holder = 6000017
+	}
+	964.1.1 = {
+		holder = 6000017
+	}
+	979.1.1 = {
+		holder = 6000017
+	}
+	994.1.1 = {
+		holder = 6000017
+	}
+	1010.1.1 = {
+		holder = 6000017
+	}
+	1030.1.1 = {
+		holder = 6000017
+	}
+	1066.1.1 = {
+		holder = 6000017
+	}
+}
