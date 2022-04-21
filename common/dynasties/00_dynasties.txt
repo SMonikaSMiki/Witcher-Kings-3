@@ -8,3 +8,18 @@
 	name = "dynn_Prydain"
 	culture = "welsh"
 }
+
+house_raven = {
+	name = "Raven"
+	culture = "northern"
+}
+
+clan_tuirseach = {
+	name = "an Tuirseach"
+	culture = "skelliger"
+}
+
+house_emreis = {
+	name = "var Emreis"
+	culture = "nilfgaardian"
+}
