@@ -18,7 +18,7 @@ skelliger = {
 		fallback = tradition_seafaring
 	}
 	
-	name_list = name_list_norse #placeholder
+	name_list = name_list_islander
 	
 	coa_gfx = { norse_coa_gfx western_coa_gfx }
 	building_gfx = { norse_building_gfx }

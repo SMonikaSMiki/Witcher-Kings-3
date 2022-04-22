@@ -1,0 +1,21 @@
+﻿name_list_islander = {
+
+	cadet_dynasty_names = {
+		"dynn_PlaceholderCadet" #000
+	}
+
+	dynasty_names = {
+		"dynn_PlaceholderDynasty" #000
+	}
+
+	male_names = {
+		Crach Skjall Arnvalkd Lugos Bran Donar Ermion Hjalborn Holger Hjalmar Otrygg Torgun Ruar Olaf Brynold Yrjan Gimre Sveinar Yanne
+		Bjorg Bjorn Tjostar Pukke Morkvag Norulf Oddleik Mons Gudvar Einar Toradarx
+	}
+	
+	female_names = {
+		Astrid Birna Cerys Duva Edla Singa Kurisu Josta
+	}
+	
+	founder_named_dynasties = yes
+}

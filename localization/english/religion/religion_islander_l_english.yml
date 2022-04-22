@@ -1,0 +1,23 @@
+﻿l_english:
+ #Islander, catch-all Skelliger faith
+ islander_religion:0 "Islander"
+ islander_religion_adj:0 "Islander"
+ islander_religion_adherent:0 "Islander"
+ islander_religion_adherent_plural:0 "Islanders"
+ islander_religion_desc:0 "A catch-all term used to describe the dominant and accepted faiths of the Skelliger Archipelago."
+ #High God (Freya)
+ islander_high_god_name:0 "Freya"
+ islander_high_god_name_possessive:0 "Freya's"
+ islander_high_god_shehe:0 "She"
+ islander_high_god_herselfhimself:0 "Herself"
+ islander_high_god_herhis:0 "Her"
+ #Freya the Mother
+ islander_the_mother_god_name:0 "The Mother"
+ islander_the_mother_god_name_possessive:0 "The Mother's"
+ #Freya the Virgin
+ islander_the_virgin_god_name:0 "The Virgin"
+ islander_the_virgin_god_name_possessive:0 "The Virgin's"
+ #Freya the Crone
+ islander_the_crone_god_name:0 "The Crone"
+ islander_the_crone_god_name_possessive:0 "The Crone's"
+ #The Sea Gods
