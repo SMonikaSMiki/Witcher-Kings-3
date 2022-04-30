@@ -1351,6 +1351,20 @@ special_genes = {
 				boy = male
 				girl = female
 			}
+			
+			northern_war_nobility_clothes_witcher = {
+				index = 74
+
+				male = {
+					1 = male_clothes_plate_war_01
+				}
+				female = {
+					0 = female_clothes_secular_byzantine_war_nobility_01_low
+					
+				}
+				boy = male
+				girl = female
+			}
 		}
 	}
 }

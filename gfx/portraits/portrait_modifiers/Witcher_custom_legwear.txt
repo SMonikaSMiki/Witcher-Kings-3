@@ -18,10 +18,17 @@ custom_legwear = {
 #									#
 #####################################
 
-## Stormlands ##
+## Nilfgaardian ##
 
 	add_accessory_modifiers = {
 		gene = legwear
 		template = nilfgaardian_war_01_legwear
+	}
+	
+## Northern ##
+
+	add_accessory_modifiers = {
+		gene = legwear
+		template = plate_war_01_legwear
 	}
 }

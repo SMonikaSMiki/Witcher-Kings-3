@@ -5,6 +5,10 @@
  ## Nilfgaardian
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_nilfgaardian_war_01:0 "Nilfgaardian Armor"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_nilfgaardian_war_01:1 "Nilfgaardian Plate Legwear"
+ 
+ ## Northern
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_plate_war_01:0 "White Plate Armor"
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_plate_war_01:1 "White Plate Legwear"
 
  ## Legwear
  PORTRAIT_MODIFIER_custom_legwear:1 "Legwear"

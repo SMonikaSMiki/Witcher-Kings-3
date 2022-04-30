@@ -12,4 +12,10 @@ male_legwear_secular_nilfgaardian_war_01 = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_legwear_secular_nilfgaardian_war_01_entity }
 }
 
+### Northern ##
+
+male_legwear_secular_plate_war_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_legwear_secular_plate_war_01_entity }
+}
+
 ##########################################################################

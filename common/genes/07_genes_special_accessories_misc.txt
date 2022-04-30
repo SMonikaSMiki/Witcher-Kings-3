@@ -696,6 +696,17 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
+		plate_war_01_legwear = {
+			index = 11
+			male = {
+				1 = male_legwear_secular_plate_war_01
+			}
+			female = {
+				1 = female_legwear_secular_ep1_jester_01
+			}
+			boy = male
+			girl = female
+		}
 	}
 
 	special_legwear = {

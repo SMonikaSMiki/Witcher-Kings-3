@@ -358,6 +358,11 @@
 		gene = clothes
 		template = nilfgaardian_war_nobility_clothes
 	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = northern_war_nobility_clothes_witcher
+	}
 
 	#add_accessory_modifiers = {
 	#	gene = hairstyles
