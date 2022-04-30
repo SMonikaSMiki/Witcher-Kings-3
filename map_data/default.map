@@ -29,7 +29,7 @@ seasons = "seasons.txt"
 # IMPASSABLE TERRAIN
 #####################
 
-impassable_mountains = LIST { 1 11 }
+impassable_mountains = LIST { 1 11 75 76 77 78 79 80 81 }
 
 
 # Can be colored by whoever owns the most of the province's neighbours.
