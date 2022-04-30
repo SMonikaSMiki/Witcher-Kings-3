@@ -1,6 +1,12 @@
 ﻿l_english:
- e_starting_title:0 "Starting Title"
- b_delete:0 "delete"
+ TITLE_NAME:1 "$NAME|U$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_DEFINITIVE_NAME:0 "the $TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+ 
  b_kaer_trolde:0 "Kaer Trolde"
  b_havntrolde:0 "Havntrolde"
  b_vejen:0 "Vejen"
@@ -101,3 +107,4 @@
  c_rud:0 "Rud"
  d_hindersfjal:0 "Hindersfjal"
  k_skellige:0 "Skellige"
+ k_skellige_adj:0 "Skelliger"

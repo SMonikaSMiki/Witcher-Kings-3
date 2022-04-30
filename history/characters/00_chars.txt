@@ -1,9 +1,26 @@
-################
-### Skellige ###
-################
-
-
-
+6000011 = {
+	name = "Eist" # King Eist Tuirseach
+	dna = bookmark_cintra_eist
+	dynasty = clan_tuirseach
+	religion = freyanism
+	culture = skelliger
+	martial = 13
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	learning = 8
+	trait = gregarious
+	trait = just
+	trait = impatient
+	trait = education_diplomacy_2
+	trait = hunter_2
+	1223.1.1 = {
+		birth = yes
+	}
+	1263.1.1 = {
+		death= yes
+	}
+}
 
 6000012 = {
 	name = "Bran" # King Bran Tuirseach

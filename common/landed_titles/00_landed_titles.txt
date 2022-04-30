@@ -3,9 +3,14 @@
 @always_primary_score = 1000
 
 k_skellige = {
-	color = { 198 161 224 }
+	color = { 110 61 90 }
 	color2 = { 255 255 255 }
+
 	capital = c_hakadal
+
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
 	d_craite_skellige = {
 		color = { 152 68 201 }
 		color2 = { 255 255 255 }
