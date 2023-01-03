@@ -1,9 +1,9 @@
 old_zerrikanian = {
 	color = { 0.2 0.2 0.2 }
 	
-	ethos =
-	heritage = zerrikanian_heritage
-	language = zerrikanian_dialect
+	ethos = ethos_communal
+	heritage = heritage_zerrikanian
+	language = language_zerrikanian_dialect
 	martial_custom = martial_custom_female_only
 	traditions = {
 		tradition_isolationist
@@ -24,12 +24,12 @@ old_zerrikanian = {
 
 zerrikanian = {
 	color = { 0.7 0.7 0.7 }
-	created = 1000.1.1 #Faithel Established
+	created = 1000.1.1 #Faithel Established?
 	parents = { old_zerrikanian }
 	
-	ethos =
-	heritage = zerrikanian_heritage
-	language = zerrikanian_dialect
+	ethos = ethos_spiritual
+	heritage = heritage_zerrikanian
+	language = language_zerrikanian_dialect
 	martial_custom = martial_custom_female_only
 	traditions = {
 	}
