@@ -1,0 +1,48 @@
+old_zerrikanian = {
+	color = { 0.2 0.2 0.2 }
+	
+	ethos =
+	heritage = zerrikanian_heritage
+	language = zerrikanian_dialect
+	martial_custom = martial_custom_female_only
+	traditions = {
+		tradition_isolationist
+	}
+	
+	name_list = name_list_zerrikanian
+	
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { african_clothing_gfx } 
+	unit_gfx = { arabic_unit_gfx } 		
+
+	ethnicities = {
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+zerrikanian = {
+	color = { 0.7 0.7 0.7 }
+	created = 1000.1.1 #Faithel Established
+	parents = { old_zerrikanian }
+	
+	ethos =
+	heritage = zerrikanian_heritage
+	language = zerrikanian_dialect
+	martial_custom = martial_custom_female_only
+	traditions = {
+	}
+	
+	name_list = name_list_zerrikanian
+	
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { african_clothing_gfx } 
+	unit_gfx = { arabic_unit_gfx } 		
+
+	ethnicities = {
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
