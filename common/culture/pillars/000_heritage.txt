@@ -1,6 +1,12 @@
-﻿heritage_islander = {
+﻿heritage_zerrikanian = {
 	type = heritage
 }
+
+heritage_islander = {
+	type = heritage
+}
+
+# WITCHER
 
 heritage_akan = {
 	type = heritage
