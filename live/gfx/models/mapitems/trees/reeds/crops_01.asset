@@ -1,0 +1,22 @@
+pdxmesh = {
+	name = "crops_01_mesh"
+	file = "reeds_06_grass.mesh"
+	scale = 0.7
+	
+	meshsettings = {
+		name = "pCylinderShape2"
+		index = 0
+		texture_diffuse = "reeds_01_diffuse.dds"
+		texture_normal = "reeds_01_normal.dds"
+		texture_specular = "reeds_01_properties.dds"
+		texture = { file = "crops_tint.dds" index = 3 srgb = yes }
+		shader = "tree"
+		shader_file = "gfx/FX/tree.shader"
+		#shadow_shader = ""	#turns shadows off
+	}
+}
+
+entity = {
+	name = "crops_01_entity"
+	pdxmesh = "crops_01_mesh"
+}
