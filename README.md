@@ -4,9 +4,9 @@
 
 ## Installation
 
-1. Clone this repo into your mod folder.
-2. Move `Witcher Kings.mod` into the `mod\` folder.
-3. Change the `path` line in `Witcher Kings.mod` with the mod's full file path.
+1. Clone this repo into your `/mod/` folder.
+2. Move `Witcher Kings.mod` into the `/mod/` folder.
+3. Change the `path` line in `Witcher Kings.mod` with the mod's file path on your system.
 
-## Committing TGAs
+## Editing Terrain
 After editing terrain, the game generates two files: `detail_index.tga` and `detail_intensity.tga`. These are used for displaying terrain properly outside of the map editor, however they are not compressed, resulting in large file sizes. Instead of using LFS or zipping the files, open them in an image editor (i.e GIMP) and export with RLE compression.
