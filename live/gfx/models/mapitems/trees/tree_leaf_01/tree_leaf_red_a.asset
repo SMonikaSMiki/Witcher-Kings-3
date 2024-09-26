@@ -1,7 +1,7 @@
 pdxmesh = {
 	name = "tree_leaf_red_a_mesh"
 	file = "tree_leaf_01_a.mesh"
-	scale = 1.0
+	scale = 1.2
 
 	lod_percentages = {
 		lod = { index = 1 percent = 7.0 }
