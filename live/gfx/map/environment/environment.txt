@@ -1,12 +1,11 @@
 
-#	sun_color = hsv{ 0.1 0.08 1 }
-sun_color = hsv{ 0.08 0.15 1 }
-sun_intensity = 7
+sun_color = hsv{ 0.08 0.08 1 } #hsv{ 0.08 0.08 1 }
+sun_intensity = 6 #7
 
 #			+Right/-Left	Height  -Front/+Back
 sun_direction = { 	 -3.3	1.3 	1 }
 shadow_direction_offset = { 0 1.8 0 }
-cubemap_intensity = 1
+cubemap_intensity = 1.0 # 0.5
 cubemap = "gfx/map/environment/qwantani_8k_nosun_cube_specular.dds"
 
 fog_color = hsv{ 0.58 0.4 1 }	#Actual fog
@@ -38,7 +37,7 @@ tonemap_middlegrey = 0.65
 tonemap_whiteluminance = 1.0
 
 exposure_function = "FixedExposure"
-exposure = 0.85
+exposure = 0.8
 
 ### Tonemapping function; "Uncharted", "Reinhard", "ReinhardModified", "Filmic". Leave empty for netural gamma corrected output.
 ### You can find them in restorescene.shader
